@@ -1,6 +1,6 @@
 """Entry for make.fun: Charm the Commuter: Forecast a City That Isn't.
 
-Umbrellwick expects polite spoon rain on the morning commute.
+Umbrellwick expects polite spoon rain on the morning commute, so stir rather than run.
 """
 import os
 
